@@ -6,7 +6,7 @@ function [  ] = generateMMM( timeStamps, Poses, Positions )
 %   actuated joints (in radian)
 
 
-filename = "generated.MMM";
+filename = "generated.xml";
 
 poses = '';
 positions = '';
